@@ -10,3 +10,45 @@ Custom linker options
 <pre>
   -presetVec=0h
 </pre>
+
+
+## 操作と機能
+
+起動後しばらくするとSEL0が表示されます。
+
+SW1とSW2でSEL(機能選択)できます。SEL0-SELFまであります。
+
+SW3でSEL0に戻ります。
+
+SW4は決定ボタンです。
+
+### SEL0 
+時計機能です。
+SW4を押しながら設定します。
+### SEL1
+### SEL2
+### SEL3
+### SEL4
+### SEL5
+### SEL6
+### SEL7
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
