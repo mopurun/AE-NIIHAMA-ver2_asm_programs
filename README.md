@@ -5,3 +5,8 @@
 PIC16F886にPickitなどで書き込みます。
 
 作りかけの機能がある中途半端なプログラムです。1500行くらいあります。
+
+Custom linker options
+<pre>
+  -presetVec=0h
+</pre>
